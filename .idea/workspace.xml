@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="47a50da4-f8f8-41b3-bc47-0f429daa4095" name="Changes" comment="Exercise1 done.">
-      <change afterPath="$PROJECT_DIR$/Week2/Exercise1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deneme.py" beforeDir="false" />
+    <list default="true" id="47a50da4-f8f8-41b3-bc47-0f429daa4095" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Week2/Exercise2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,7 +88,7 @@
       <updated>1657297816634</updated>
       <workItem from="1657297822695" duration="1168000" />
       <workItem from="1657700020038" duration="4652000" />
-      <workItem from="1657705306868" duration="325000" />
+      <workItem from="1657705306868" duration="14545000" />
     </task>
     <task id="LOCAL-00001" summary="Initial state">
       <created>1657298138071</created>
@@ -111,7 +111,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657704163518</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Exercise1 done.">
+      <created>1657705660470</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1657705660470</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
