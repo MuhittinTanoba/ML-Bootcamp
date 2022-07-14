@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="47a50da4-f8f8-41b3-bc47-0f429daa4095" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Week2/Exercise2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projects/Lead Calculation with Rule-Based Classification.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/persona.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,7 +51,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/muhit/Desktop/ML-Bootcamp&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/muhit/Desktop/veri bilimi kurs&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyIntegratedToolsModulesConfigurable&quot;
   }
 }</component>
@@ -88,7 +89,9 @@
       <updated>1657297816634</updated>
       <workItem from="1657297822695" duration="1168000" />
       <workItem from="1657700020038" duration="4652000" />
-      <workItem from="1657705306868" duration="14545000" />
+      <workItem from="1657705306868" duration="16322000" />
+      <workItem from="1657728431901" duration="8306000" />
+      <workItem from="1657776137080" duration="7097000" />
     </task>
     <task id="LOCAL-00001" summary="Initial state">
       <created>1657298138071</created>
@@ -118,7 +121,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657705660470</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Exercise2 done.">
+      <created>1657721409987</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1657721409987</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -176,6 +186,7 @@
     <MESSAGE value="Initial state" />
     <MESSAGE value="Configuring gitignore." />
     <MESSAGE value="Exercise1 done." />
-    <option name="LAST_COMMIT_MESSAGE" value="Exercise1 done." />
+    <MESSAGE value="Exercise2 done." />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercise2 done." />
   </component>
 </project>
