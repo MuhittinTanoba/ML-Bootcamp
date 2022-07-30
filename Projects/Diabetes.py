@@ -157,7 +157,7 @@ ax.set_title("Correlation Matrix", fontsize=20)
 plt.show()
 
 ##############################
-## Create new variables 
+## Create new variables
 ##############################
 
 df.loc[(df["Age"] >= 21) & (df["Age"] < 50), "NEW_AGE_CAT"] = "mature"
