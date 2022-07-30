@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="47a50da4-f8f8-41b3-bc47-0f429daa4095" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Projects/Diabetes.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Diabetes.py" beforeDir="false" afterPath="$PROJECT_DIR$/Projects/Diabetes.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,7 +98,7 @@
       <workItem from="1658835491507" duration="1624000" />
       <workItem from="1658859754473" duration="57000" />
       <workItem from="1659080404193" duration="6923000" />
-      <workItem from="1659163764978" duration="7733000" />
+      <workItem from="1659163764978" duration="12880000" />
     </task>
     <task id="LOCAL-00001" summary="Initial state">
       <created>1657298138071</created>
@@ -149,7 +149,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658304820376</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Feature Engineering &amp; Data Preprocessing &amp; Modeling with Diabetes dataset">
+      <created>1659178007729</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1659178007729</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -210,6 +217,7 @@
     <MESSAGE value="Exercise2 done." />
     <MESSAGE value="Lead Calculation." />
     <MESSAGE value="Feature Engineering &amp; Data Preprocessing &amp; Modeling with Titanic dataset" />
-    <option name="LAST_COMMIT_MESSAGE" value="Feature Engineering &amp; Data Preprocessing &amp; Modeling with Titanic dataset" />
+    <MESSAGE value="Feature Engineering &amp; Data Preprocessing &amp; Modeling with Diabetes dataset" />
+    <option name="LAST_COMMIT_MESSAGE" value="Feature Engineering &amp; Data Preprocessing &amp; Modeling with Diabetes dataset" />
   </component>
 </project>
